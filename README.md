@@ -27,33 +27,6 @@ app/
         └── fragment_distance.xml
 ```
 ---
-## 📲 Installation de l’APK
-
-Pour installer l’APK de ce projet Android :
-
-1. **Compiler l’application**  
-   - Ouvrir le projet dans **Android Studio**.  
-   - Aller dans le menu **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
-   - <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f8013d07-8ca0-44f1-ba68-70147e031e22" />
-   - Le fichier APK sera généré dans le dossier :  
-     ```
-     app/build/outputs/apk/debug/app-debug.apk
-     ```
-2. **Transférer l’APK sur votre appareil Android**  
-   - Copier le fichier `app-debug.apk` sur votre smartphone (via câble USB, Bluetooth,...).  
-
-3. **Autoriser les sources inconnues**  
-   - Sur votre appareil Android, aller dans **Paramètres > Sécurité**.  
-   - Activer l’option **Installer des applications depuis des sources inconnues**.  
-
-4. **Installer l’APK**  
-   - Ouvrir le fichier `app-debug.apk` sur votre smartphone.  
-   - Suivre les instructions pour installer l’application.  
-
-5. **Lancer l’application**  
-   - Une fois installée, l’application sera disponible dans le menu des applications sous le nom **PizzaRecipes**.
----
-
 
 ---
 
@@ -80,13 +53,13 @@ Pour installer l’APK de ce projet Android :
 ---
 
 ## 🖥️ Exemple d’exécution
-- **Onglet Température** :  
-- <img width="472" height="451" alt="image" src="https://github.com/user-attachments/assets/0add2bd1-e66a-4012-8172-e29023c61c84" />
-- **Onglet Distance** :  
-- <img width="472" height="451" alt="image" src="https://github.com/user-attachments/assets/1591c672-3065-4c81-9f1a-7f6ca51895ef" />
-- **Fermeture de l’application** :  
-Une boîte de dialogue s’affiche :  
-- <img width="472" height="451" alt="image" src="https://github.com/user-attachments/assets/47d1f1ca-ef15-461f-99e3-10e3acb6958a" />
+
+
+https://github.com/user-attachments/assets/97c2027d-8944-4156-84bd-df49baf842e5
+
+
+
+
 ---
 
 ## 💡 Concepts pratiqués
@@ -99,7 +72,7 @@ Une boîte de dialogue s’affiche :
 ---
 
 ## 🧑‍💻 Auteur
-👤 **Agouram Hassan**  
+👤 **Majjati Mohamed Taha**  
 📱 Développement Android Java  
 🎓 Instructor : **Mr. LACHGAR**  
 📅 25 Mars 2026
