@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ConverterTabsJava" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ConverterTabsJava" parent="Base.Theme.ConverterTabsJava" />
+    <item name="colorPrimary" type="color">#6750A4</item>
+    <item name="colorSecondary" type="color">#03DAC5</item>
+</resources>
